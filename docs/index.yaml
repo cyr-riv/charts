@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mywebserver:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-16T23:46:40.891164+02:00"
+    description: A Helm chart for Kubernetes
+    digest: ae5851f3a3ab10809c55e5f92a735a1357305b97e4dddafb32162704e6bac6d7
+    name: mywebserver
+    type: application
+    urls:
+    - https://cyr-riv.github.io/charts/mywebserver-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-16T23:46:40.890285+02:00"
